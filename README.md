@@ -2,6 +2,7 @@ Proyecto Javascript - Notas
 Crear una aplicación usando JavaScript que me permita manejar notas.
 
 NOMBRES COMPLETOS: KATYA GERALDINE ANCO BUSTILLOS
+
 PROYECTO PRE CODEABLE C-11-1
 
 Requerimientos
